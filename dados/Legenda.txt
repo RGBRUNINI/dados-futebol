@@ -50,5 +50,6 @@ Clube - Nome do clube
 Cartao - Cor do cartão aplicado
 Atleta - Nome do atleta punido pelo cartão
 num_camisa - Número da camisa do atleta
-Posicao - Posição na partida em que o atleta se encontra
-Minuto - Minuto na partida em que o cartão foi aplicado
+
+
+tecnico_visitante
